@@ -522,8 +522,8 @@ function Portfolio() {
       subtitle: "AI 기반 재료 맞춤 레시피 추천",
       tags: ["Next.js", "Supabase", "Vercel"],
       desc: "AI가 냉장고 재료를 분석하여 만들 수 있는 레시피를 추천해주는 서비스.",
-      href: null,
-      available: false,
+      href: "https://moitji.ujuplace.com",
+      available: true,
       accent: "#10b981",
     },
     {
